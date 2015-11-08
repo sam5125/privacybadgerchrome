@@ -3,13 +3,13 @@
         "message": "Domain hinzufügen"
     },
     "badger_status_block": {
-        "message": "Gesperrt "
+        "message": "Dieser Tracker ist BLOCKIERT. Schieben, um Blockierung aufzuheben oder Cookies zu blocken."
     },
     "badger_status_cookieblock": {
-        "message": "Blockiert Cookies von "
+        "message": "Die Cookies dieses Trackers sind blockiert. Schieben, um den Tracker zu blockieren oder komplett frei zu schalten."
     },
     "badger_status_noaction": {
-        "message": "Dürfen "
+        "message": "Diese Domain ist nicht blockiert. Schieben, um komplett zu blocken oder Cookies zu blocken."
     },
     "description": {
         "message": "Privacy Badger schützt sie vor Trackern während Sie im Web surfen !"
